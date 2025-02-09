@@ -10,7 +10,7 @@ Welcome to the **Proof of Everything** project! This repository is part of the P
 
 Below is a high-level diagram that explains how our system works:
 
-![Project Diagram](images/diagram.png)
+![Project Diagram](../images/diagram.png)
 
 ---
 
